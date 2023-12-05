@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dimitar</h1>
 <h3 align="center">Passionate Full-stack Alchemist 💻</h3>
-
+<br>
+<br>
 
 
 - 🚀 Passionate Backend Maestro
@@ -15,8 +16,8 @@
   
 - 📫 How to reach me **mitko0stan4ev@gmail.com**
 
-
-
+<br>
+<br>
 
 <ul>
   <li>
